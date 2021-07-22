@@ -7,7 +7,7 @@
 <br />
 
 - 💼 Azure Cloud Engineer at Deloitte
-- 🎓 Bachelor of Science in Mathematical Engineer
+- 🎓 Bachelor of Science in Mathematical Engineering
 - 🌱 Currently learning Infrastructure as Code (IaC)
 - 🧐 Interested in all things automation and discovering new tools
 
